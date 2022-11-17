@@ -1,0 +1,2 @@
+# japaPractice
+jpa code practice
